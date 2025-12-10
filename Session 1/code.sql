@@ -13,4 +13,5 @@ SELECT
 FROM Employee;
 CREATE ROLE Analyst;
 GRANT SELECT ON Employee_View TO Analyst;
---G3_23BCS11410_Akshara
+
+--G3_23BCS12648_Priyanshu
